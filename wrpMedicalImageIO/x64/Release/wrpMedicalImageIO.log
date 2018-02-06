@@ -1,0 +1,9 @@
+﻿Build started 24.02.2016 11:48:31.
+     1>Project "Y:\braindatabase\TumorBRATs\training\Code\directory\wrpMedicalImageIO\wrpMedicalImageIO.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         wrpMedicalImageIO.vcxproj -> Y:\braindatabase\TumorBRATs\training\Code\directory\Build\x64\Release\wrpMedicalImageIO.dll
+     1>Done Building Project "Y:\braindatabase\TumorBRATs\training\Code\directory\wrpMedicalImageIO\wrpMedicalImageIO.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.22

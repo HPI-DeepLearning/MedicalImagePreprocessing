@@ -1,0 +1,70 @@
+C:\Users\Minaa\Documents\Project\directory\Build\x64\Debug\appMedicalDataPrepration.exe.config
+C:\Users\Minaa\Documents\Project\directory\Build\x64\Debug\appMedicalDataPrepration.exe
+C:\Users\Minaa\Documents\Project\directory\Build\x64\Debug\appMedicalDataPrepration.pdb
+C:\Users\Minaa\Documents\Project\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.csprojResolveAssemblyReference.cache
+C:\Users\Minaa\Documents\Project\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.exe
+C:\Users\Minaa\Documents\Project\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.pdb
+C:\Users\Minaa\Documents\Project\directory\Build\x64\Debug\ConfigAppMedDataPrepration.xml
+D:\workspace\directory\Build\x64\Debug\ConfigAppMedDataPrepration.xml
+D:\workspace\directory\Build\x64\Debug\appMedicalDataPrepration.exe.config
+D:\workspace\directory\Build\x64\Debug\appMedicalDataPrepration.exe
+D:\workspace\directory\Build\x64\Debug\appMedicalDataPrepration.pdb
+D:\workspace\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.csprojResolveAssemblyReference.cache
+D:\workspace\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.exe
+D:\workspace\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.pdb
+Y:\braindatabase\TumorBRATs\training\Code\directory\Build\x64\Debug\ConfigAppMedDataPrepration.xml
+Y:\braindatabase\TumorBRATs\training\Code\directory\Build\x64\Debug\appMedicalDataPrepration.exe.config
+Y:\braindatabase\TumorBRATs\training\Code\directory\Build\x64\Debug\appMedicalDataPrepration.exe
+Y:\braindatabase\TumorBRATs\training\Code\directory\Build\x64\Debug\appMedicalDataPrepration.pdb
+Y:\braindatabase\TumorBRATs\training\Code\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.csprojResolveAssemblyReference.cache
+Y:\braindatabase\TumorBRATs\training\Code\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.exe
+Y:\braindatabase\TumorBRATs\training\Code\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.pdb
+Y:\braindatabase\TumorBRATs\training\Code\directory - Copy\Build\x64\Debug\ConfigAppMedDataPrepration.xml
+Y:\braindatabase\TumorBRATs\training\Code\directory - Copy\Build\x64\Debug\appMedicalDataPrepration.exe.config
+Y:\braindatabase\TumorBRATs\training\Code\directory - Copy\Build\x64\Debug\appMedicalDataPrepration.exe
+Y:\braindatabase\TumorBRATs\training\Code\directory - Copy\Build\x64\Debug\appMedicalDataPrepration.pdb
+Y:\braindatabase\TumorBRATs\training\Code\directory - Copy\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.csprojResolveAssemblyReference.cache
+Y:\braindatabase\TumorBRATs\training\Code\directory - Copy\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.exe
+Y:\braindatabase\TumorBRATs\training\Code\directory - Copy\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.pdb
+Y:\PhD-research\DataSet\braindatabase\TumorBRATs\training\Code\directory - Copy\Build\x64\Debug\ConfigAppMedDataPrepration.xml
+Y:\PhD-research\DataSet\braindatabase\TumorBRATs\training\Code\directory - Copy\Build\x64\Debug\appMedicalDataPrepration.exe.config
+Y:\PhD-research\DataSet\braindatabase\TumorBRATs\training\Code\directory - Copy\Build\x64\Debug\appMedicalDataPrepration.exe
+Y:\PhD-research\DataSet\braindatabase\TumorBRATs\training\Code\directory - Copy\Build\x64\Debug\appMedicalDataPrepration.pdb
+Y:\PhD-research\DataSet\braindatabase\TumorBRATs\training\Code\directory - Copy\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.csprojResolveAssemblyReference.cache
+Y:\PhD-research\DataSet\braindatabase\TumorBRATs\training\Code\directory - Copy\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.exe
+Y:\PhD-research\DataSet\braindatabase\TumorBRATs\training\Code\directory - Copy\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.pdb
+Y:\PhD-research\DataSet\braindatabase\TumorBRATs\training\Code\directory\Build\x64\Debug\ConfigAppMedDataPrepration.xml
+Y:\PhD-research\DataSet\braindatabase\TumorBRATs\training\Code\directory\Build\x64\Debug\appMedicalDataPrepration.exe.config
+Y:\PhD-research\DataSet\braindatabase\TumorBRATs\training\Code\directory\Build\x64\Debug\appMedicalDataPrepration.exe
+Y:\PhD-research\DataSet\braindatabase\TumorBRATs\training\Code\directory\Build\x64\Debug\appMedicalDataPrepration.pdb
+Y:\PhD-research\DataSet\braindatabase\TumorBRATs\training\Code\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.csprojResolveAssemblyReference.cache
+Y:\PhD-research\DataSet\braindatabase\TumorBRATs\training\Code\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.exe
+Y:\PhD-research\DataSet\braindatabase\TumorBRATs\training\Code\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.pdb
+D:\code-nifti\directory\Build\x64\Debug\ConfigAppMedDataPrepration.xml
+D:\code-nifti\directory\Build\x64\Debug\appMedicalDataPrepration.exe.config
+D:\code-nifti\directory\Build\x64\Debug\appMedicalDataPrepration.exe
+D:\code-nifti\directory\Build\x64\Debug\appMedicalDataPrepration.pdb
+D:\code-nifti\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.csprojResolveAssemblyReference.cache
+D:\code-nifti\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.exe
+D:\code-nifti\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.pdb
+E:\code-nifti\directory\Build\x64\Debug\ConfigAppMedDataPrepration.xml
+E:\code-nifti\directory\Build\x64\Debug\appMedicalDataPrepration.exe.config
+E:\code-nifti\directory\Build\x64\Debug\appMedicalDataPrepration.exe
+E:\code-nifti\directory\Build\x64\Debug\appMedicalDataPrepration.pdb
+E:\code-nifti\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.csprojResolveAssemblyReference.cache
+E:\code-nifti\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.exe
+E:\code-nifti\directory\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.pdb
+Y:\PhD-research\Code\20.07.217\Build\x64\Debug\ConfigAppMedDataPrepration.xml
+Y:\PhD-research\Code\20.07.217\Build\x64\Debug\appMedicalDataPrepration.exe.config
+Y:\PhD-research\Code\20.07.217\Build\x64\Debug\appMedicalDataPrepration.exe
+Y:\PhD-research\Code\20.07.217\Build\x64\Debug\appMedicalDataPrepration.pdb
+Y:\PhD-research\Code\20.07.217\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.csprojResolveAssemblyReference.cache
+Y:\PhD-research\Code\20.07.217\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.exe
+Y:\PhD-research\Code\20.07.217\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.pdb
+Y:\PhD-research\Code\BRATS\20.07.217\Build\x64\Debug\ConfigAppMedDataPrepration.xml
+Y:\PhD-research\Code\BRATS\20.07.217\Build\x64\Debug\appMedicalDataPrepration.exe.config
+Y:\PhD-research\Code\BRATS\20.07.217\Build\x64\Debug\appMedicalDataPrepration.exe
+Y:\PhD-research\Code\BRATS\20.07.217\Build\x64\Debug\appMedicalDataPrepration.pdb
+Y:\PhD-research\Code\BRATS\20.07.217\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.csprojResolveAssemblyReference.cache
+Y:\PhD-research\Code\BRATS\20.07.217\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.exe
+Y:\PhD-research\Code\BRATS\20.07.217\appMedicalDataPrepration\obj\x64\Debug\appMedicalDataPrepration.pdb

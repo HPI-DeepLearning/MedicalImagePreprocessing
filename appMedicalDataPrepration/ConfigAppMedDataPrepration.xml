@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<config>
+  <Root>Y:\braindatabase</Root>
+  <dataFolder>Y:\PhD-research\DataSet\Instance-Data\TumorLiver\Seg\</dataFolder>
+  <OutputFolder>Y:\PhD-research\DataSet\Instance-Data\TumorLiver\LesionSeg\</OutputFolder>
+  <BratsFolder>Y:\PhD-research\DataSet\</BratsFolder>
+  <AllBrats>Y:\PhD-research\DataSet\</AllBrats>
+</config>
+  
